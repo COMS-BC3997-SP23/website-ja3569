@@ -5,7 +5,7 @@ The goal is to promote connections among non-profit and non-governmental organiz
 
 
 # Method One: Information Extraction
-**Algorithm Search**
+**Algorithm Search**</br>
 Automatically searched for all web pages in recent 6 months that included ALL NGO organization names. Note that this search system was complicated and required a good deal of  time to run for all organizations. 
 **Activeness Assessment**
 When more than one webpage was found, the algorithm extracted information from the official website, Facebook and INS. If relevant webpage is not found, the listings returned a ‘suspect’ warning. 
