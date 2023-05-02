@@ -1,0 +1,4391 @@
+[
+    {
+        "name": "Abilities",
+        "website": "https://abilities.ca/",
+        "country": "Canada",
+        "postal_code": "M4Y 1E1",
+        "address": "252 Sackville St, Toronto, ON",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Ontario Trillium Foundation",
+            "Cuso International",
+            "Independent Living Canada"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "ABILITY Awareness",
+        "website": "http://www.abilityawareness.org/",
+        "country": "USA",
+        "postal_code": "90071",
+        "address": "333 S Hope St, Los Angeles, CA",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Tom Sullivan",
+            "Glaucoma Research Foundation",
+            "Guide Dogs for the Blind"
+        ],
+        "found_year": "2009"
+    },
+    {
+        "name": "Ability Foundation",
+        "website": "https://abilityfoundation.org/",
+        "country": "India",
+        "postal_code": "600090",
+        "address": "4/23, 3rd Cross Street, Radhakrishnan Nagar, Thiruvanmiyur, Chennai",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Accenture",
+            "Cognizant",
+            "Infosys"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "AbleThrive",
+        "website": "https://ablethrive.com/",
+        "country": "USA",
+        "postal_code": "94107",
+        "address": "953 Indiana St, San Francisco, CA",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Boston Foundation",
+            "Christopher and Dana Reeve Foundation",
+            "Craig H. Neilsen Foundation"
+        ],
+        "found_year": "2014"
+    },
+    {
+        "name": "AboutFace",
+        "website": "https://www.aboutface.ca/",
+        "country": "Canada",
+        "postal_code": "M6H 1A5",
+        "address": "1057 College St, Toronto, ON",
+        "un_goals": [
+            3
+        ],
+        "sponsors": [
+            "Craniofacial Canada",
+            "Arni Foundation",
+            "TD Bank"
+        ],
+        "found_year": "1985"
+    },
+    {
+        "name": "ABRAR (Sudan)",
+        "website": "http://abrarorg.sd/",
+        "country": "Sudan",
+        "postal_code": "11000",
+        "address": "Al Baladiya St, Khartoum",
+        "un_goals": [
+            1,
+            10
+        ],
+        "sponsors": [
+            "UNICEF",
+            "Save the Children",
+            "World Vision"
+        ],
+        "found_year": "1998"
+    },
+    {
+        "name": "Accessibility Organization for Afghanistan Disabled (AOAD)",
+        "website": "http://www.aoad.org.af/",
+        "country": "Afghanistan",
+        "postal_code": "1002",
+        "address": "House 141, Street 4, Taimani Project, Kabul",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Swedish Committee for Afghanistan",
+            "European Union",
+            "USAID"
+        ],
+        "found_year": "2009"
+    },
+    {
+        "name": "Access Bangladesh Foundation",
+        "website": "http://www.accessbangladesh.org/",
+        "country": "Bangladesh",
+        "postal_code": "1207",
+        "address": "House 56, Road 9A, Dhanmondi, Dhaka",
+        "un_goals": [
+            4,
+            8,
+            10
+        ],
+        "sponsors": [
+            "The Asia Foundation",
+            "Plan International",
+            "Australian Aid"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Access Exchange International (AEI)",
+        "website": "http://www.globalride-sf.org/",
+        "country": "USA",
+        "postal_code": "94127",
+        "address": "112 San Pablo Ave, San Francisco, CA",
+        "un_goals": [
+            11
+        ],
+        "sponsors": [
+            "World Bank",
+            "USAID",
+            "European Union"
+        ],
+        "found_year": "1990"
+    },
+    {
+        "name": "Access Israel",
+        "website": "https://www.aisrael.org/",
+        "country": "Israel",
+        "postal_code": "42505",
+        "address": "1 Ha'Sharon St, Kiryat Ono",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "JDC Israel",
+            "The Ted Arison Family Foundation",
+            "National Insurance Institute"
+        ],
+        "found_year": "1999"
+    },
+    {
+        "name": "Action for Mental Illness (ACMI)",
+        "website": "http://www.acmiindia.org/",
+        "country": "India",
+        "postal_code": "560038",
+        "address": "Indiranagar, Bangalore",
+        "un_goals": [
+            3
+        ],
+        "sponsors": [
+            "National Institute of Mental Health and Neurosciences",
+            "Mental Health Care and Research Foundation",
+            "Mental Health Foundation"
+        ],
+        "found_year": "1993"
+    },
+    {
+        "name": "Action on Disability and Development",
+        "website": "https://www.add.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "BS1 6ED",
+        "address": "2nd Floor, Union Gate, 35-39 Union St, Bristol",
+        "un_goals": [
+            10,
+            17
+        ],
+        "sponsors": [
+            "UK Aid",
+            "Big Lottery Fund",
+            "European Union"
+        ],
+        "found_year": "1985"
+    },
+    {
+        "name": "Action on Disability Rights and Development (ADRAD)",
+        "website": "http://adrad.org/",
+        "country": "Nepal",
+        "postal_code": "44600",
+        "address": "Chakrapath, Kathmandu",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "CBM",
+            "Norwegian Association of Disabled",
+            "Swiss Agency for Development and Cooperation"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Admiral Family Circle Islamic Community, Inc.",
+        "website": "https://admiralfamilycircle.org/",
+        "country": "USA",
+        "postal_code": "11236",
+        "address": "1638 E 102nd St, Brooklyn, NY",
+        "un_goals": [
+            1,
+            10
+        ],
+        "sponsors": [
+            "Islamic Relief",
+            "Helping Hand",
+            "Muslim Aid"
+        ],
+        "found_year": "2001"
+    },
+    {
+        "name": "African Disability Forum (ADF)",
+        "website": "http://africandisabilityforum.org/",
+        "country": "Ethiopia",
+        "postal_code": "1250",
+        "address": "Woreda 03, House 895, Addis Ababa",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "European Union",
+            "Ford Foundation"
+        ],
+        "found_year": "2015"
+    },
+    {
+        "name": "Africa Disability Alliance (ADA)",
+        "website": "http://www.africadisabilityalliance.org/",
+        "country": "South Africa",
+        "postal_code": "8001",
+        "address": "7th Floor, Mandela Rhodes Place, Cape Town",
+        "un_goals": [
+            4,
+            10,
+            17
+        ],
+        "sponsors": [
+            "Sida",
+            "European Union",
+            "World Bank"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "AIDS-Free World",
+        "website": "https://www.aidsfreeworld.org/",
+        "country": "USA",
+        "postal_code": "10017",
+        "address": "866 United Nations Plaza, Suite 476, New York, NY",
+        "un_goals": [
+            3
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "Stephen Lewis Foundation",
+            "MacAIDS Fund"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Alexander Graham Bell Association for the Deaf and Hard of Hearing (AG Bell)",
+        "website": "https://www.agbell.org/",
+        "country": "USA",
+        "postal_code": "20007",
+        "address": "3417 Volta Pl NW, Washington, D.C.",
+        "un_goals": [
+            4
+        ],
+        "sponsors": [
+            "Oticon Foundation",
+            "Cochlear Americas",
+            "Phonak"
+        ],
+        "found_year": "1890"
+    },
+    {
+        "name": "A Leg to Stand On, Inc. (ALTSO)",
+        "website": "https://www.altso.org/",
+        "country": "USA",
+        "postal_code": "10004",
+        "address": "28 Liberty St, 6th Floor, New York, NY",
+        "un_goals": [
+            3
+        ],
+        "sponsors": [
+            "Bloomberg",
+            "EY",
+            "Goldman Sachs"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Alhassan Foundation for Differently Abled Inclusion",
+        "website": "http://alhassan.foundation/",
+        "country": "Egypt",
+        "postal_code": "11511",
+        "address": "13 Dr. Ibrahim Abou El Naga St, Nasr City, Cairo",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Vodafone Egypt Foundation",
+            "UNICEF",
+            "Misr El Kheir Foundation"
+        ],
+        "found_year": "2015"
+    },
+    {
+        "name": "Al Manarah \u2013 Association for Arab Persons with Disabilities",
+        "website": "https://almanarah.org/en/",
+        "country": "Israel",
+        "postal_code": "16928",
+        "address": "Nazareth",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "American Jewish Joint Distribution Committee",
+            "Mosaic United",
+            "The Ted Arison Family Foundation"
+        ],
+        "found_year": "2005"
+    },
+    {
+        "name": "American Speech-Language-Hearing Association (ASHA)",
+        "website": "https://www.asha.org/",
+        "country": "USA",
+        "postal_code": "20850",
+        "address": "2200 Research Blvd, Rockville, MD",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "National Institutes of Health",
+            "U.S. Department of Education",
+            "Autism Speaks"
+        ],
+        "found_year": "1925"
+    },
+    {
+        "name": "Amicale Marocaine des Hanicapes",
+        "website": "https://www.amh-maroc.org/",
+        "country": "Morocco",
+        "postal_code": "10000",
+        "address": "Rue Tansift, Rabat",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Banque Populaire",
+            "BMCE Bank",
+            "Phosboucraa Foundation"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Arab Forum for the Rights of Persons with Disabilities (AFRPD)",
+        "website": "http://www.afrpd.org/",
+        "country": "Lebanon",
+        "postal_code": "1107",
+        "address": "Beirut",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "UNDP"
+        ],
+        "found_year": "2011"
+    },
+    {
+        "name": "Arab Organization of Disabled People",
+        "website": "http://aodpweb.org/",
+        "country": "Lebanon",
+        "postal_code": "1107",
+        "address": "Beirut",
+        "un_goals": [
+            10,
+            17
+        ],
+        "sponsors": [
+            "Handicap International",
+            "European Union",
+            "UNESCO"
+        ],
+        "found_year": "1998"
+    },
+    {
+        "name": "Arbeiter-Samariter-Bund Deutschland (ASB)",
+        "website": "https://www.asb.de/en",
+        "country": "Germany",
+        "postal_code": "50677",
+        "address": "S\u00fclzburgstra\u00dfe 140, Cologne",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "German Federal Foreign Office",
+            "German Federal Ministry for Economic Cooperation and Development"
+        ],
+        "found_year": "1888"
+    },
+    {
+        "name": "ARCH Disability Law Centre",
+        "website": "https://www.archdisabilitylaw.ca/",
+        "country": "Canada",
+        "postal_code": "M5B 1J3",
+        "address": "55 University Avenue, 15th Floor, Toronto, ON",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Law Foundation of Ontario",
+            "Canadian Bar Association",
+            "Ontario Bar Association"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "Asabe Shehu Yar\u2019Adua Foundation (ASYARF)",
+        "website": "https://asyarf.org.ng/",
+        "country": "Nigeria",
+        "postal_code": "900001",
+        "address": "Suite 60, Ebitu Ukiwe St, Jabi, Abuja",
+        "un_goals": [
+            3,
+            4,
+            10
+        ],
+        "sponsors": [
+            "Nigeria LNG Limited",
+            "Nigerian National Petroleum Corporation",
+            "Central Bank of Nigeria"
+        ],
+        "found_year": "2005"
+    },
+    {
+        "name": "Asia Pacific Disability Forum",
+        "website": "http://www.apcdfoundation.org/",
+        "country": "Thailand",
+        "postal_code": "10260",
+        "address": "999/124, 13th Floor, Building B, Petchkasem Road, Bang Khae, Bangkok",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Japan International Cooperation Agency",
+            "The Nippon Foundation",
+            "Australian Aid"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Associa\u00e7\u00e3o Nacional de Membros do Minist\u00e9rio P\u00fablico de Defesa Dos Direitos dos Idosos e Pessoas com Defici\u00eancia (AMPID)",
+        "website": "http://www.ampid.org.br/",
+        "country": "Brazil",
+        "postal_code": "70610-200",
+        "address": "SMAS, Trecho 3, Lote 1, Bloco A, Edif\u00edcio The Union Office, Sala 216, Bras\u00edlia",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Ministry of Justice and Public Security",
+            "National Council of the Public Prosecutor's Office",
+            "Federal Public Ministry"
+        ],
+        "found_year": "2010"
+    },
+    {
+        "name": "Asociaci\u00f3n Civil contra la Discriminaci\u00f3n (Civil Association against Discrimination)",
+        "website": "http://www.accd.org.ar/",
+        "country": "Argentina",
+        "postal_code": "C1041AAU",
+        "address": "Av. de Mayo 1370, 5\u00ba 33, Buenos Aires",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "Ford Foundation",
+            "European Union"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Asociaci\u00f3n Colombiana S\u00edndrome de Down / Asdown Colombia",
+        "website": "http://www.asdowncolombia.org/",
+        "country": "Colombia",
+        "postal_code": "111166",
+        "address": "Carrera 16A # 78-85, Bogot\u00e1",
+        "un_goals": [
+            3,
+            4,
+            10
+        ],
+        "sponsors": [
+            "Carulla Foundation",
+            "Colombian Ministry of Education",
+            "United Way"
+        ],
+        "found_year": "1992"
+    },
+    {
+        "name": "Asociaci\u00f3n de Impedidos Fisicos Motores",
+        "website": "https://www.aifm.org.ar/",
+        "country": "Argentina",
+        "postal_code": "B1874BWP",
+        "address": "Av. San Martin 3843, Avellaneda, Buenos Aires",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "National Disability Agency",
+            "Fundaci\u00f3n Avina",
+            "World Bank"
+        ],
+        "found_year": "1962"
+    },
+    {
+        "name": "Associazione Italiana Elettrosensibili",
+        "website": "https://www.elettrosensibili.org/",
+        "country": "Italy",
+        "postal_code": "00153",
+        "address": "Via della Paglia 14, Rome",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "Ministry of Health of Italy",
+            "World Health Organization"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Asociaci\u00f3n por los Derechos Civiles (ADC)",
+        "website": "https://adcderechos.org.ar/",
+        "country": "Argentina",
+        "postal_code": "C1037AAE",
+        "address": "Av. Callao 25, 1\u00ba Piso, Buenos Aires",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "Sigrid Rausing Trust"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "Association 3IN \u2013 Inclusion, Integrity and Independence",
+        "website": "https://www.association3in.org/",
+        "country": "Montenegro",
+        "postal_code": "81000",
+        "address": "Hercegovacka 4, Podgorica",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "Open Society Foundations",
+            "UNDP"
+        ],
+        "found_year": "2012"
+    },
+    {
+        "name": "Association g\u00e9n\u00e9rale des handicap\u00e9s du Rwanda (AGHR)",
+        "website": "https://aghr-rw.org/",
+        "country": "Rwanda",
+        "postal_code": "674",
+        "address": "KN 1 Rd, Kigali",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "UNDP",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "2000"
+    },
+    {
+        "name": "Association for Disabled People (ADP)",
+        "website": "http://www.adp-georgia.org/",
+        "country": "Georgia",
+        "postal_code": "0186",
+        "address": "20 Mitskevichi Street, Tbilisi",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "UNDP",
+            "USAID"
+        ],
+        "found_year": "1993"
+    },
+    {
+        "name": "Association of Disabled People of Uzbekistan",
+        "website": "https://adpu.uz/en/",
+        "country": "Uzbekistan",
+        "postal_code": "100011",
+        "address": "17A Navoi St, Tashkent",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "UNDP",
+            "European Union",
+            "World Bank"
+        ],
+        "found_year": "1991"
+    },
+    {
+        "name": "Association of Disabled Women and Mothers of Disabled Children",
+        "website": "https://www.tanadgoma.ge/",
+        "country": "Georgia",
+        "postal_code": "0108",
+        "address": "Ivane Javakhishvili St 26, Tbilisi",
+        "un_goals": [
+            5,
+            10
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "European Union",
+            "UN Women"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "Association of Parents, Friends and People with Disabilities of the Brazil Bank",
+        "website": "https://www.apabb.org.br/",
+        "country": "Brazil",
+        "postal_code": "02903-000",
+        "address": "Rua Felipe Camar\u00e3o, 58, Barra Funda, S\u00e3o Paulo",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Bank of Brazil",
+            "BB Seguridade",
+            "Banco Votorantim"
+        ],
+        "found_year": "1989"
+    },
+    {
+        "name": "Association of parents and friends of special children in S\u00e3o Paulo (APAE)",
+        "website": "https://www.apae.com.br/",
+        "country": "Brazil",
+        "postal_code": "04023-900",
+        "address": "Rua Loefgren, 2109, Vila Clementino, S\u00e3o Paulo",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "National Lottery of Brazil",
+            "Ita\u00fa Unibanco",
+            "Santander"
+        ],
+        "found_year": "1954"
+    },
+    {
+        "name": "Association of University Centers on Disabilities (United States of America)",
+        "website": "https://www.aucd.org/",
+        "country": "United States",
+        "postal_code": "20814",
+        "address": "1100 Wayne Avenue, Suite 1000, Silver Spring, MD",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "U.S. Department of Health and Human Services",
+            "CDC",
+            "HRSA"
+        ],
+        "found_year": "1971"
+    },
+    {
+        "name": "Association of Women with Disabilities (ENGKAD)",
+        "website": "http://engkad.org/",
+        "country": "Turkey",
+        "postal_code": "34110",
+        "address": "K\u00fc\u00e7\u00fck\u00e7ekmece Mh., Dr. Sad\u0131k Ahmet Cd., \u0130stanbul",
+        "un_goals": [
+            5,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "UN Women",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Atfaluna Society for Deaf Children, ASDC",
+        "website": "https://www.atfaluna.net/",
+        "country": "Palestine",
+        "postal_code": "Gaza",
+        "address": "Gaza, Rimal, Atfaluna Street",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "UNICEF",
+            "CBM International"
+        ],
+        "found_year": "1992"
+    },
+    {
+        "name": "Atlas Alliance, The",
+        "website": "https://www.atlas-alliansen.no/en/",
+        "country": "Norway",
+        "postal_code": "0158",
+        "address": "Storgata 38, Oslo",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Norad",
+            "Norwegian Ministry of Foreign Affairs",
+            "European Union"
+        ],
+        "found_year": "1981"
+    },
+    {
+        "name": "Attiva \u2013 Mente",
+        "website": "http://www.attiva-mente.it/",
+        "country": "Italy",
+        "postal_code": "00046",
+        "address": "Via del Colle, 37, Grottaferrata, Rome",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "Ministry of Health of Italy",
+            "Italian National Research Council"
+        ],
+        "found_year": "2013"
+    },
+    {
+        "name": "Australian Disability and Development Consortium",
+        "website": "https://www.addc.org.au/",
+        "country": "Australia",
+        "postal_code": "3003",
+        "address": "Ross House, 247-251 Flinders Lane, Melbourne, VIC",
+        "un_goals": [
+            10,
+            17
+        ],
+        "sponsors": [
+            "Australian Government Department of Foreign Affairs and Trade",
+            "CBM Australia",
+            "World Vision Australia"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Australian Federation of Disability Organisations (AFDO)",
+        "website": "https://www.blindenverband.at/en",
+        "country": "Australia",
+        "postal_code": "3000",
+        "address": "Level 3, 369 Royal Parade, Parkville, VIC",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "National Disability Insurance Agency",
+            "Department of Social Services",
+            "NDIS"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Australian Federation of Disability Organization",
+        "website": "https://www.afdo.org.au/",
+        "country": "Australia",
+        "postal_code": "3000",
+        "address": "Level 3, 369 Royal Parade, Parkville, VIC",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "National Disability Insurance Agency",
+            "Department of Social Services",
+            "NDIS"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Austrian Association Supporting the Blind and Visually Impaired",
+        "website": "https://www.hilfsgemeinschaft.at/en/",
+        "country": "Austria",
+        "postal_code": "1200",
+        "address": "J\u00e4gerstra\u00dfe 36, Vienna",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Austrian Ministry of Social Affairs",
+            "European Union",
+            "Austrian Development Cooperation"
+        ],
+        "found_year": "1935"
+    },
+    {
+        "name": "Autisme Europe",
+        "website": "http://www.autismeurope.org/",
+        "country": "Belgium",
+        "postal_code": "1050",
+        "address": "Avenue des Arts 29, Brussels",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Union",
+            "European Commission",
+            "DG Employment, Social Affairs and Inclusion"
+        ],
+        "found_year": "1983"
+    },
+    {
+        "name": "Bangladesh Disabled Development Trust",
+        "website": "http://www.bddt.org/",
+        "country": "Bangladesh",
+        "postal_code": "1207",
+        "address": "House-43, Road-27, Block-A, Banani, Dhaka",
+        "un_goals": [
+            1,
+            3,
+            10
+        ],
+        "sponsors": [
+            "UNDP",
+            "USAID",
+            "The Asia Foundation"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Bangladesh Protibandhi Unnayan Sangstha (BPUS)",
+        "website": "http://www.bpus.org.bd/",
+        "country": "Bangladesh",
+        "postal_code": "1205",
+        "address": "3/3 Block-D, Lalmatia, Dhaka",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "CBM International",
+            "Swedish International Development Cooperation Agency",
+            "The Asia Foundation"
+        ],
+        "found_year": "1994"
+    },
+    {
+        "name": "Barbados Council for the Disabled (BCD)",
+        "website": "https://www.barbadosdisabled.org.bb/",
+        "country": "Barbados",
+        "postal_code": "BB14006",
+        "address": "Harambee House, Garrison, St. Michael",
+        "un_goals": [
+            10,
+            11
+        ],
+        "sponsors": [
+            "UNDP",
+            "European Union",
+            "Government of Barbados"
+        ],
+        "found_year": "1976"
+    },
+    {
+        "name": "Beit Issie Shapiro",
+        "website": "https://en.beitissie.org.il/",
+        "country": "Israel",
+        "postal_code": "40500",
+        "address": "Reut St 1, Ra'anana",
+        "un_goals": [
+            3,
+            4,
+            10
+        ],
+        "sponsors": [
+            "Mifal Hapayis",
+            "Ted Arison Family Foundation",
+            "National Insurance Institute of Israel"
+        ],
+        "found_year": "1980"
+    },
+    {
+        "name": "Belgian Disability Forum (ASBL)",
+        "website": "https://www.bdf.belgium.be/en",
+        "country": "Belgium",
+        "postal_code": "1020",
+        "address": "Avenue des Arts 7-8, Brussels",
+        "un_goals": [
+            10,
+            11
+        ],
+        "sponsors": [
+            "European Union",
+            "European Disability Forum",
+            "King Baudouin Foundation"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "Benem\u00e9rito Comit\u00e9 Pro Ciegos y Sordos de Guatemala (Meritorious Committee for the Blind and Deaf of Guatemala)",
+        "website": "https://prociegosysordos.org.gt/",
+        "country": "Guatemala",
+        "postal_code": "01010",
+        "address": "3a. Calle 8-44 zona 1, Ciudad de Guatemala",
+        "un_goals": [
+            3,
+            4,
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "European Union",
+            "Guatemalan Ministry of Education"
+        ],
+        "found_year": "1943"
+    },
+    {
+        "name": "Benetech",
+        "website": "https://benetech.org/",
+        "country": "United States",
+        "postal_code": "94306",
+        "address": "480 S California Ave, Suite 201, Palo Alto, CA",
+        "un_goals": [
+            4,
+            10,
+            17
+        ],
+        "sponsors": [
+            "Google.org",
+            "MacArthur Foundation",
+            "Ford Foundation"
+        ],
+        "found_year": "2001"
+    },
+    {
+        "name": "Best Buddies of Mexico",
+        "website": "https://www.bestbuddies.org.mx/",
+        "country": "Mexico",
+        "postal_code": "06140",
+        "address": "Dinamarca 53, Col. Ju\u00e1rez, Del. Cuauht\u00e9moc, Ciudad de M\u00e9xico",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Coca-Cola Foundation",
+            "Fundaci\u00f3n Televisa",
+            "Fundaci\u00f3n B\u00e9calos"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Booker Autism Foundation (BAFOL)",
+        "website": "https://www.bafol.org/",
+        "country": "United States",
+        "postal_code": "40214",
+        "address": "1151 South 4th Street, Louisville, KY",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Autism Speaks",
+            "Autism Society of America",
+            "The Johnson Foundation"
+        ],
+        "found_year": "2010"
+    },
+    {
+        "name": "Brazilian Academy of Neurology",
+        "website": "https://www.abneuro.org.br/",
+        "country": "Brazil",
+        "postal_code": "01323-001",
+        "address": "Avenida Paulista, 2073, Horsa 1, Conjunto 101, Bela Vista, S\u00e3o Paulo",
+        "un_goals": [
+            3
+        ],
+        "sponsors": [
+            "Brazilian Ministry of Health",
+            "Brazilian Society of Neuroscience and Behavior",
+            "Brazilian Society of Headache"
+        ],
+        "found_year": "1962"
+    },
+    {
+        "name": "Burton Blatt Institute (BBI) of Syracuse University",
+        "website": "https://bbi.syr.edu/",
+        "country": "United States",
+        "postal_code": "13244",
+        "address": "900 S Crouse Ave, Syracuse, NY",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Syracuse University",
+            "Kessler Foundation",
+            "National Institute on Disability, Independent Living, and Rehabilitation Research"
+        ],
+        "found_year": "2005"
+    },
+    {
+        "name": "Cambodian Disabled Peoples Organisation (CDPO)",
+        "website": "https://cdpo.org/",
+        "country": "Cambodia",
+        "postal_code": "12000",
+        "address": "Street 371, Phum Doeum Ampil, Sangkat Doeum Ampil, Khan Por Senchey, Phnom Penh",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Australian Department of Foreign Affairs and Trade",
+            "USAID",
+            "United Nations Development Programme"
+        ],
+        "found_year": "1999"
+    },
+    {
+        "name": "Campus Arnau d\u2019Escala",
+        "website": "https://www.arnaudescala.cat/en/",
+        "country": "Spain",
+        "postal_code": "17004",
+        "address": "Carrer de la Devesa, 20, Girona",
+        "un_goals": [
+            4
+        ],
+        "sponsors": [
+            "European Union",
+            "Government of Catalonia",
+            "Erasmus+ Programme"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Canadian Association for Community Living",
+        "website": "https://cacl.ca/",
+        "country": "Canada",
+        "postal_code": "K1P 5E7",
+        "address": "312 Parkdale Ave, Ottawa, ON",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Canadian Government",
+            "Social Sciences and Humanities Research Council",
+            "Government of Ontario"
+        ],
+        "found_year": "1958"
+    },
+    {
+        "name": "Canadian Association of the Deaf-Association des Sourds du Canada (CAD-ASC)",
+        "website": "https://cad.ca/",
+        "country": "Canada",
+        "postal_code": "K1R 6X9",
+        "address": "251 Bank St, Suite 606, Ottawa, ON",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Canadian Government",
+            "Canada Council for the Arts",
+            "Bell Canada"
+        ],
+        "found_year": "1940"
+    },
+    {
+        "name": "Canadian Autism Spectrum Disorders Alliance",
+        "website": "https://www.casda.ca/",
+        "country": "Canada",
+        "postal_code": "M5A 1T9",
+        "address": "245 Carlaw Ave, Unit 101, Toronto, ON",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Autism Speaks Canada",
+            "Canadian Institutes of Health Research",
+            "Government of Canada"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Canadian Council on Rehabilitation and Work",
+        "website": "https://www.ccrw.org/",
+        "country": "Canada",
+        "postal_code": "M5C 2B5",
+        "address": "2 Carlton St, Suite 901, Toronto, ON",
+        "un_goals": [
+            8,
+            10
+        ],
+        "sponsors": [
+            "Canadian Government",
+            "Ontario Trillium Foundation",
+            "TD Bank Group"
+        ],
+        "found_year": "1976"
+    },
+    {
+        "name": "Canadian Working Group on HIV and Rehabilitation (CWGHR)",
+        "website": "http://www.hivandrehab.ca/",
+        "country": "Canada",
+        "postal_code": "M4Y 2T1",
+        "address": "555 Richmond St W, Suite 405, Toronto, ON",
+        "un_goals": [
+            3,
+            17
+        ],
+        "sponsors": [
+            "Public Health Agency of Canada",
+            "Ontario Ministry of Health",
+            "Canadian Institutes of Health Research"
+        ],
+        "found_year": "1998"
+    },
+    {
+        "name": "CBM",
+        "website": "https://www.cbm.org/",
+        "country": "Germany",
+        "postal_code": "64625",
+        "address": "Nibelungenstra\u00dfe 124, Bensheim",
+        "un_goals": [
+            1,
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "Swiss Agency for Development and Cooperation",
+            "UK Aid"
+        ],
+        "found_year": "1908"
+    },
+    {
+        "name": "CBR Global Network",
+        "website": "https://www.cbrglobalnetwork.org/",
+        "country": "International",
+        "postal_code": "UNK",
+        "address": "UNK",
+        "un_goals": [
+            1,
+            3,
+            10
+        ],
+        "sponsors": [
+            "World Health Organization",
+            "United Nations",
+            "European Union"
+        ],
+        "found_year": "2012"
+    },
+    {
+        "name": "CBM Global Disability Inclusion Vereniging (CBM Global)",
+        "website": "https://www.cbmglobal.org/",
+        "country": "Netherlands",
+        "postal_code": "3526",
+        "address": "Koningin Wilhelminalaan 3, Utrecht",
+        "un_goals": [
+            1,
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "Swiss Agency for Development and Cooperation",
+            "UK Aid"
+        ],
+        "found_year": "2019"
+    },
+    {
+        "name": "CCS Disability Action Incorporated",
+        "website": "https://ccsdisabilityaction.org.nz/",
+        "country": "New Zealand",
+        "postal_code": "8011",
+        "address": "314 Worcester St, Christchurch Central City, Christchurch",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "New Zealand Ministry of Health",
+            "New Zealand Ministry of Social Development",
+            "Foundation North"
+        ],
+        "found_year": "1935"
+    },
+    {
+        "name": "Center for Advocacy, Learning and Livelihood Foundation of the Blind (CALL)",
+        "website": "https://www.callfoundation.org.ph/",
+        "country": "Philippines",
+        "postal_code": "1109",
+        "address": "11 Dona Juana Rodriguez Ave, Project 4, Quezon City",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Australian Government",
+            "USAID",
+            "CBM International"
+        ],
+        "found_year": "2000"
+    },
+    {
+        "name": "Center for Inclusive Policy (CIP)",
+        "website": "https://www.centerforinclusivepolicy.org/",
+        "country": "United States",
+        "postal_code": "20005",
+        "address": "1100 15th St NW, Washington, D.C.",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "Hewlett Foundation"
+        ],
+        "found_year": "2018"
+    },
+    {
+        "name": "Center for Independent Living of Persons with Disabilities, Kathmandu",
+        "website": "https://www.cil-kathmandu.org/",
+        "country": "Nepal",
+        "postal_code": "44600",
+        "address": "Kusunti, Lalitpur",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "Nepal Ministry of Women, Children and Senior Citizens",
+            "United Nations Development Programme",
+            "European Union"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Center for International Rehabilitation",
+        "website": "https://www.ric.org/",
+        "country": "United States",
+        "postal_code": "60611",
+        "address": "345 E Superior St, Chicago, IL",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "United States Department of State",
+            "National Institute on Disability, Independent Living, and Rehabilitation Research"
+        ],
+        "found_year": "1954"
+    },
+    {
+        "name": "Center for International Stabilization and Recovery",
+        "website": "https://www.jmu.edu/cisr/",
+        "country": "United States",
+        "postal_code": "22807",
+        "address": "James Madison University, MSC 4902, Harrisonburg, VA",
+        "un_goals": [
+            16
+        ],
+        "sponsors": [
+            "United States Department of State",
+            "United Nations Mine Action Service",
+            "World Bank"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Center for Independent Living",
+        "website": "https://www.cilberkeley.org/",
+        "country": "United States",
+        "postal_code": "94703",
+        "address": "3075 Adeline St, Suite 100, Berkeley, CA",
+        "un_goals": [
+            10
+        ],
+        "sponsors": [
+            "US Department of Health and Human Services",
+            "California Department of Rehabilitation",
+            "San Francisco Foundation"
+        ],
+        "found_year": "1972"
+    },
+    {
+        "name": "Center for the Study of Sport and Society",
+        "website": "https://www.northeastern.edu/sportinsociety/",
+        "country": "United States",
+        "postal_code": "02115",
+        "address": "360 Huntington Ave, Boston, MA",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Nike",
+            "Major League Baseball",
+            "National Football League"
+        ],
+        "found_year": "1984"
+    },
+    {
+        "name": "Centre for Citizens with Disabilities (CCD)",
+        "website": "https://ccdnigeria.org/",
+        "country": "Nigeria",
+        "postal_code": "900211",
+        "address": "Suite 11, Sabondale Shopping Complex, Obafemi Awolowo Way, Jabi, Abuja",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Initiative for West Africa",
+            "National Democratic Institute"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "Centre for Disability in Development",
+        "website": "https://www.cdd.org.bd/",
+        "country": "Bangladesh",
+        "postal_code": "1212",
+        "address": "House # 676 (1st floor), Road # 13, Baitul Aman Housing Society, Adabor, Dhaka",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "CBM",
+            "Sightsavers",
+            "ActionAid"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Centre for Disability Studies, University of the West Indies",
+        "website": "https://www.uwi.edu/",
+        "country": "Jamaica",
+        "postal_code": "N/A",
+        "address": "Mona Campus, Kingston 7, Jamaica",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Caribbean Development Bank",
+            "UNICEF",
+            "Inter-American Development Bank"
+        ],
+        "found_year": "1948"
+    },
+    {
+        "name": "Centre for Independent Living of People with Disability of Serbia",
+        "website": "https://cilsrbija.org/",
+        "country": "Serbia",
+        "postal_code": "11000",
+        "address": "Kneza Milo\u0161a 4, Belgrade",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Union",
+            "Open Society Foundation",
+            "Handicap International"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Centre for Legal Assistance for People with Disabilities",
+        "website": "http://www.clapd.org/",
+        "country": "Ukraine",
+        "postal_code": "02142",
+        "address": "9A, Kharkivske Shose, Kyiv",
+        "un_goals": [
+            3,
+            4,
+            16
+        ],
+        "sponsors": [
+            "United Nations Development Programme",
+            "Open Society Foundation",
+            "USAID"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Centre for Studies on Inclusive Education (United Kingdom of Great Britain and Northern Ireland)",
+        "website": "https://www.csie.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "BS1 5BB",
+        "address": "New Redland, Elton Road, Bristol",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Paul Hamlyn Foundation",
+            "The Esm\u00e9e Fairbairn Foundation",
+            "The Tudor Trust"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Centre for the Rehabilitation of the Paralyzed (CRP)",
+        "website": "https://www.crp-bangladesh.org/",
+        "country": "Bangladesh",
+        "postal_code": "1349",
+        "address": "P.O. CRP, Savar, Dhaka",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "CBM",
+            "DFID",
+            "USAID"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "Cerebral Palsy Foundation (CPF)",
+        "website": "https://www.yourcpf.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "3 Park Avenue, 14th Floor, New York, NY",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Google",
+            "Microsoft",
+            "Adobe"
+        ],
+        "found_year": "1955"
+    },
+    {
+        "name": "Charitable society for disabled people \u201cStimul\u201d",
+        "website": "http://www.stimul.kz/",
+        "country": "Kazakhstan",
+        "postal_code": "050004",
+        "address": "Almaty, Auezov district, 45/1 Baisheva str.",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Soros Foundation Kazakhstan",
+            "European Union",
+            "UNICEF"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "Children and Young People with Disability Australia (CYDA)",
+        "website": "https://www.cyda.org.au/",
+        "country": "Australia",
+        "postal_code": "3000",
+        "address": "Level 4, 369 Royal Parade, Parkville, Victoria",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Department of Social Services",
+            "National Disability Insurance Agency",
+            "Australian Government"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Children\u2019s Rights Alliance for England",
+        "website": "https://crae.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "EC1M 4AR",
+        "address": "1 & 2 Taylors Yard, 67 Alderbrook Road, London",
+        "un_goals": [
+            4,
+            16
+        ],
+        "sponsors": [
+            "The Esm\u00e9e Fairbairn Foundation",
+            "Paul Hamlyn Foundation",
+            "The Barrow Cadbury Trust"
+        ],
+        "found_year": "1991"
+    },
+    {
+        "name": "Christopher and Dana Reeve Foundation (CDRF)",
+        "website": "https://www.christopherreeve.org/",
+        "country": "United States",
+        "postal_code": "07932",
+        "address": "636 Morris Turnpike, Suite 3A, Short Hills, NJ",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Prudential",
+            "Bristol-Myers Squibb",
+            "BARD"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Colombian Centre for Integrated Rehabilitation (CIREC)",
+        "website": "https://cirec.org/en/",
+        "country": "Colombia",
+        "postal_code": "111311",
+        "address": "Carrera 65 # 13-31, Bogot\u00e1",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "USAID",
+            "CBM",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "1974"
+    },
+    {
+        "name": "Community Options, Inc.",
+        "website": "https://www.comop.org/",
+        "country": "United States",
+        "postal_code": "08540",
+        "address": "16 Farber Road, Princeton, NJ",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Bank of America",
+            "PNC Bank",
+            "The Walmart Foundation"
+        ],
+        "found_year": "1989"
+    },
+    {
+        "name": "Confederaci\u00f3n Plena inclusi\u00f3n Espa\u00f1a",
+        "website": "https://www.plenainclusion.org/",
+        "country": "Spain",
+        "postal_code": "28015",
+        "address": "Calle de la Oca, 36, Madrid",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Social Fund",
+            "Spanish Ministry of Health",
+            "ONCE Foundation"
+        ],
+        "found_year": "1964"
+    },
+    {
+        "name": "Confederaci\u00f3n Mexicana de Organizaciones en Favor de la Persona con Discapacidad Intelectual, A.C. (CONFE)",
+        "website": "https://www.confe.org.mx/",
+        "country": "Mexico",
+        "postal_code": "03100",
+        "address": "Av. M\u00e9xico Coyoac\u00e1n 343, Col. Xoco, Ciudad de M\u00e9xico",
+        "un_goals": [
+            4
+        ],
+        "sponsors": [
+            "National Council for Persons with Disabilities (CONADIS)",
+            "Fundaci\u00f3n Televisa",
+            "Instituto Nacional de Desarrollo Social"
+        ],
+        "found_year": "1981"
+    },
+    {
+        "name": "Congo Handicap RDC",
+        "website": "http://www.congohandicap.org/",
+        "country": "Democratic Republic of Congo",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "CBM",
+            "Handicap International",
+            "European Union"
+        ],
+        "found_year": "2011"
+    },
+    {
+        "name": "Consiglio Nazionale sulla Disabilit\u00e0",
+        "website": "https://www.osservatoriodisabilita.gov.it/it/",
+        "country": "Italy",
+        "postal_code": "00193",
+        "address": "Piazza Adriana, 9, Roma",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Italian Government",
+            "Ministry of Labor and Social Policies",
+            "Ministry of Health"
+        ],
+        "found_year": "2013"
+    },
+    {
+        "name": "Consortium of Disability Organisations (CODO)",
+        "website": "https://findcarett.com/consortium-of-disability-organisations-codo/",
+        "country": "Australia",
+        "postal_code": "2600",
+        "address": "6 Campion Street, Deakin, ACT",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "National Disability Insurance Scheme",
+            "Australian Government",
+            "Disability Advocacy Network Australia"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Consortium of Humanitarian Agencies",
+        "website": "https://www.humanitarian-encyclopedia.org/",
+        "country": "Sri Lanka",
+        "postal_code": "00500",
+        "address": "86, Rosmead Place, Colombo",
+        "un_goals": [
+            1,
+            10,
+            16
+        ],
+        "sponsors": [
+            "Swiss Agency for Development and Cooperation",
+            "ICRC",
+            "UNICEF"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "Corporaci\u00f3n Ciudadan\u00eda Real de Sordos de Chile",
+        "website": "https://cresor.cl/",
+        "country": "Chile",
+        "postal_code": "8320000",
+        "address": "Av. Ejercito Libertador 50, Santiago",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "SENADIS",
+            "Fundaci\u00f3n Telef\u00f3nica",
+            "Fundaci\u00f3n ONCE"
+        ],
+        "found_year": "2016"
+    },
+    {
+        "name": "Council for Canadians with Disabilities (CDD)",
+        "website": "https://ccdonline.ca/",
+        "country": "Canada",
+        "postal_code": "R3B 0R9",
+        "address": "909-294 Portage Avenue, Winnipeg, Manitoba",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Canadian Heritage",
+            "Social Development Canada",
+            "Employment and Social Development Canada"
+        ],
+        "found_year": "1976"
+    },
+    {
+        "name": "Council for Exceptional Children (CEC)",
+        "website": "https://www.cec.sped.org/",
+        "country": "United States",
+        "postal_code": "22202",
+        "address": "3100 Clarendon Blvd., Suite 600, Arlington, VA",
+        "un_goals": [
+            4
+        ],
+        "sponsors": [
+            "CEC-PD",
+            "CEC-TED",
+            "CEC-DDEL"
+        ],
+        "found_year": "1922"
+    },
+    {
+        "name": "Data-Pop Alliance",
+        "website": "https://datapopalliance.org/",
+        "country": "United States",
+        "postal_code": "10012",
+        "address": "665 Broadway, Suite 801, New York, NY",
+        "un_goals": [
+            9,
+            17
+        ],
+        "sponsors": [
+            "Rockefeller Foundation",
+            "Ford Foundation",
+            "Hewlett Foundation"
+        ],
+        "found_year": "2014"
+    },
+    {
+        "name": "Dementia Alliance International (DAI)",
+        "website": "https://www.dementiaallianceinternational.org/",
+        "country": "Global",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Alzheimer's Disease International",
+            "World Health Organization",
+            "World Dementia Council"
+        ],
+        "found_year": "2014"
+    },
+    {
+        "name": "Design Bangladesh",
+        "website": "https://dribbble.com/places/bangladesh",
+        "country": "Bangladesh",
+        "postal_code": "1216",
+        "address": "House 14, Road 12, Sector 10, Uttara, Dhaka",
+        "un_goals": [
+            4,
+            8,
+            11
+        ],
+        "sponsors": [
+            "Swisscontact",
+            "BRAC",
+            "Access Bangladesh Foundation"
+        ],
+        "found_year": "2015"
+    },
+    {
+        "name": "Development and Ability Organization (formerly Afghan Disabled Union)",
+        "website": "https://daoafghanistan.ngo/",
+        "country": "Afghanistan",
+        "postal_code": "1002",
+        "address": "House No. 174, Street No. 4, Taimani Project, Kabul",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "USAID",
+            "World Bank",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Disability Action, Ireland",
+        "website": "https://www.disabilityaction.org/",
+        "country": "Ireland",
+        "postal_code": "BT15 2GB",
+        "address": "Portside Business Park, 189 Airport Road West, Belfast",
+        "un_goals": [
+            4,
+            8,
+            10
+        ],
+        "sponsors": [
+            "Department for Communities",
+            "Department of Health",
+            "European Social Fund"
+        ],
+        "found_year": "1983"
+    },
+    {
+        "name": "Disability Australia Ltd.",
+        "website": "https://pwd.org.au/about-us/our-history/disability-australia-ltd/",
+        "country": "Australia",
+        "postal_code": "3000",
+        "address": "Level 3, 369 Royal Parade, Parkville, Victoria",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "National Disability Insurance Agency",
+            "Australian Government",
+            "Disability Advocacy Network Australia"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Disability Federation of Ireland",
+        "website": "https://www.disability-federation.ie/",
+        "country": "Ireland",
+        "postal_code": "D12 WDW1",
+        "address": "Fumbally Court, Fumbally Lane, Dublin",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Irish Government",
+            "Health Service Executive",
+            "European Social Fund"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Disability Inclusive Development Programs and Services (DIDEPAS)",
+        "website": "https://didepas.org/",
+        "country": "Nigeria",
+        "postal_code": "23401",
+        "address": "1, Abiodun Close, Off Akilo Road, Ogba, Lagos",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "World Bank",
+            "USAID",
+            "DFID"
+        ],
+        "found_year": "2015"
+    },
+    {
+        "name": "Disability Organizations Joint Front (DOJF) Sri Lanka",
+        "website": "N/A",
+        "country": "Sri Lanka",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Swiss Agency for Development and Cooperation",
+            "Australian Aid",
+            "USAID"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Disability Law and Policy Program, Syracuse University College of Law/ Syracuse University",
+        "website": "https://law.syr.edu/academics/disability-law-policy-program",
+        "country": "United States",
+        "postal_code": "13244",
+        "address": "Dineen Hall, Syracuse, NY",
+        "un_goals": [
+            4,
+            16
+        ],
+        "sponsors": [
+            "Burton Blatt Institute",
+            "U.S. Department of Education",
+            "National Science Foundation"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Disability Rights Education and Defense Fund (DREDF)",
+        "website": "https://dredf.org/",
+        "country": "United States",
+        "postal_code": "94710",
+        "address": "3075 Adeline Street, Suite 210, Berkeley, CA",
+        "un_goals": [
+            4,
+            10,
+            16
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "The California Endowment",
+            "Robert Wood Johnson Foundation"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "Disability Rights Fund (DRF)",
+        "website": "https://www.disabilityrightsfund.org/",
+        "country": "United States",
+        "postal_code": "02116",
+        "address": "89 South St, Suite 203, Boston, MA",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "Ford Foundation",
+            "Australian Government Department of Foreign Affairs and Trade"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Disability Rights Promotion International (DRPI)",
+        "website": "https://drpi.research.yorku.ca/",
+        "country": "Canada",
+        "postal_code": "M3J 1P3",
+        "address": "York University, 4700 Keele Street, Ross N940, Toronto, Ontario",
+        "un_goals": [
+            4,
+            10,
+            16
+        ],
+        "sponsors": [
+            "Swedish International Development Cooperation Agency",
+            "York University",
+            "Canadian Institutes of Health Research"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "Disabled Peoples\u2019 International \u2013 Europe (DPI\u2010E)",
+        "website": "http://www.dpi-europe.org/",
+        "country": "Belgium",
+        "postal_code": "1040",
+        "address": "Rue Montoyer 39, Brussels",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "European Disability Forum",
+            "Inclusion Europe"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Disabled Peoples\u2019 International Korea",
+        "website": "http://www.dpi.or.kr/",
+        "country": "South Korea",
+        "postal_code": "04631",
+        "address": "Room 303, 3rd Floor, 46-11, Yeouido-dong, Yeongdeungpo-gu, Seoul",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Ministry of Health and Welfare of South Korea",
+            "Seoul Metropolitan Government",
+            "Korea Disabled People's Development Institute"
+        ],
+        "found_year": "1981"
+    },
+    {
+        "name": "Disabled People\u2019s Rehabilitation and Employment Union of Georgia",
+        "website": "https://www.facebook.com/pg/Disabled-Peoples-Rehabilitation-and-Employment-Union-of-Georgia-162186590489670",
+        "country": "Georgia",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "USAID",
+            "European Union",
+            "UNICEF"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Disabled Peoples Organizations Denmark",
+        "website": "https://dpo-dk.org/",
+        "country": "Denmark",
+        "postal_code": "2450",
+        "address": "Blekinge Boulevard 2, Copenhagen SV",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Danish Ministry of Social Affairs",
+            "Danish Disability Council",
+            "Danish Institute for Human Rights"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Disabled Peoples\u2019 International (DPI)",
+        "website": "http://www.dpi.org/",
+        "country": "Canada",
+        "postal_code": "R3C 1V4",
+        "address": "Unit 210-1 Wesley Ave, Winnipeg, MB",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Government of Canada",
+            "Swedish International Development Cooperation Agency",
+            "European Commission"
+        ],
+        "found_year": "1981"
+    },
+    {
+        "name": "Disabled Persons Assembly NZ",
+        "website": "https://www.dpa.org.nz/",
+        "country": "New Zealand",
+        "postal_code": "6011",
+        "address": "Level 4, 173-175 Victoria Street, Wellington",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Ministry of Social Development",
+            "New Zealand Lottery Grants Board",
+            "Vodafone New Zealand Foundation"
+        ],
+        "found_year": "1983"
+    },
+    {
+        "name": "Disabled Rehabilitation and Research Association",
+        "website": "http://www.drabangladesh.org/",
+        "country": "Bangladesh",
+        "postal_code": "1207",
+        "address": "House No. 751 (2nd Floor), Road No. 11, Baitul Aman Housing Society, Adabar, Dhaka",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "European Union",
+            "Swedish International Development Cooperation Agency",
+            "USAID"
+        ],
+        "found_year": "1998"
+    },
+    {
+        "name": "Disabled Women\u2019s Network Canada (DAWN Canada)",
+        "website": "https://www.dawncanada.net/",
+        "country": "Canada",
+        "postal_code": "H2L 4T9",
+        "address": "469 Jean Talon St. West, Suite 215, Montreal, QC",
+        "un_goals": [
+            4,
+            5,
+            10
+        ],
+        "sponsors": [
+            "Status of Women Canada",
+            "Canadian Women's Foundation",
+            "Community Foundations of Canada"
+        ],
+        "found_year": "1985"
+    },
+    {
+        "name": "Discovering Deaf Worlds, Inc.",
+        "website": "https://www.discoveringdeafworlds.org/",
+        "country": "United States",
+        "postal_code": "14620",
+        "address": "P.O. Box 60577, Rochester, NY",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "National Endowment for Democracy",
+            "Christoffel-Blindenmission",
+            "Global Fund for Community Foundations"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Dominica Association of Persons with Disabilities, Inc.",
+        "website": "https://dapd.dm/",
+        "country": "Dominica",
+        "postal_code": "00152",
+        "address": "P.O. Box 2357, Roseau",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Government of Dominica",
+            "UNDP",
+            "European Union"
+        ],
+        "found_year": "1983"
+    },
+    {
+        "name": "Down Syndrome Albania Foundation",
+        "website": "https://www.downsyndromealbania.org/",
+        "country": "Albania",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Down Syndrome International",
+            "European Down Syndrome Association",
+            "World Down Syndrome Day"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Down Syndrome Australia",
+        "website": "https://www.downsyndrome.org.au/",
+        "country": "Australia",
+        "postal_code": "3101",
+        "address": "18/71 Victoria Crescent, Abbotsford, Victoria",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Australian Government Department of Social Services",
+            "National Disability Insurance Scheme",
+            "New South Wales Government"
+        ],
+        "found_year": "2011"
+    },
+    {
+        "name": "Down Syndrome Society of Kenya",
+        "website": "https://www.downsyndromekenya.org/",
+        "country": "Kenya",
+        "postal_code": "00100",
+        "address": "P.O. Box 10363, Nairobi",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Kenya Community Development Foundation",
+            "United Nations Children's Fund (UNICEF)",
+            "Kenyan Ministry of Health"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Draktsho Vocational Training Centre for Special Children and Youth",
+        "website": "http://www.draktsho-bhutan.org/",
+        "country": "Bhutan",
+        "postal_code": "11001",
+        "address": "P.O. Box 295, Thimphu",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Japan International Cooperation Agency (JICA)",
+            "UNESCO",
+            "Save the Children"
+        ],
+        "found_year": "2001"
+    },
+    {
+        "name": "Dream for Disability Foundation",
+        "website": "https://www.dreamfordisability.org/",
+        "country": "Bangladesh",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "The Asia Foundation",
+            "UNICEF",
+            "The World Bank"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "East Eagle Foundation (EEF)",
+        "website": "https://www.easteaglefoundation.org/",
+        "country": "Pakistan",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "USAID",
+            "European Union",
+            "Asian Development Bank"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Electronic Frontier Foundation (EFF)",
+        "website": "https://www.eff.org/",
+        "country": "United States",
+        "postal_code": "94109-1215",
+        "address": "815 Eddy Street, San Francisco, CA",
+        "un_goals": [
+            9,
+            16
+        ],
+        "sponsors": [
+            "Hewlett Foundation",
+            "Ford Foundation",
+            "Open Society Foundations"
+        ],
+        "found_year": "1990"
+    },
+    {
+        "name": "Entire Power in Social Action (EPSA)",
+        "website": "http://www.epsanepal.org/",
+        "country": "Nepal",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Nepal Federation of Disabled People (NFDN)",
+            "UNICEF",
+            "Asian Development Bank"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Empowerment Through Integration (ETI)",
+        "website": "https://www.etivision.org/",
+        "country": "United States",
+        "postal_code": "02163",
+        "address": "125 Western Ave, Boston, MA",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "The Boston Foundation",
+            "World Bank Group Youth Summit",
+            "Cummings Foundation"
+        ],
+        "found_year": "2014"
+    },
+    {
+        "name": "Enosh \u2013 The Israeli Mental Health Association",
+        "website": "https://www.enosh.org.il/en/",
+        "country": "Israel",
+        "postal_code": "69360",
+        "address": "Habarzel St 34, Tel Aviv-Yafo",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Ministry of Health Israel",
+            "National Insurance Institute of Israel",
+            "Joint Distribution Committee"
+        ],
+        "found_year": "1978"
+    },
+    {
+        "name": "Entire Power In Social Action \u2013 EPSA Nepal",
+        "website": "http://www.epsanepal.org/",
+        "country": "Nepal",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Nepal Federation of Disabled People (NFDN)",
+            "UNICEF",
+            "Asian Development Bank"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Entire Power In Social Action \u2013 EPSA Nepal",
+        "website": "http://www.epsanepal.org/",
+        "country": "Nepal",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Nepal Federation of Disabled People (NFDN)",
+            "UNICEF",
+            "Asian Development Bank"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Equal Rights for Persons with Disabilities International (ERPDI)",
+        "website": "https://www.equalrightintl.org/",
+        "country": "Israel",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "European Union"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Equally Unique",
+        "website": "https://equallyunique.se/",
+        "country": "Sweden",
+        "postal_code": "113 30",
+        "address": "Fridhemsgatan 33, Stockholm",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Swedish Inheritance Fund",
+            "Swedish Agency for Participation",
+            "Swedish Postcode Foundation"
+        ],
+        "found_year": "2008"
+    },
+    {
+        "name": "Essl Foundation",
+        "website": "https://www.essl.foundation/",
+        "country": "Austria",
+        "postal_code": "3400",
+        "address": "Schumanngasse 5, Klosterneuburg",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Austrian Federal Ministry of Labor, Social Affairs, Health and Consumer Protection",
+            "Zero Project",
+            "European Foundation Centre"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "European Association of Service providers for Persons with Disabilities (EASPD)",
+        "website": "https://www.easpd.eu/",
+        "country": "Belgium",
+        "postal_code": "1040",
+        "address": "Handelsstraat 36-38, Brussels",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "European Social Fund",
+            "European Disability Forum"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "European Centre for Law and Justice",
+        "website": "https://eclj.org/",
+        "country": "France",
+        "postal_code": "67000",
+        "address": "4 Quai Koch, Strasbourg",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Alliance Defending Freedom",
+            "American Center for Law and Justice",
+            "National Legal Foundation"
+        ],
+        "found_year": "1998"
+    },
+    {
+        "name": "European Disability Forum",
+        "website": "http://www.edf-feph.org/",
+        "country": "Belgium",
+        "postal_code": "1040",
+        "address": "Square Ambiorix 32, Brussels",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "European Social Fund",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "European League of Stuttering Associations (ELSA)",
+        "website": "http://www.europeanstuttering.org/",
+        "country": "United Kingdom",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Commission",
+            "Stuttering Foundation",
+            "British Stammering Association"
+        ],
+        "found_year": "1990"
+    },
+    {
+        "name": "European Women\u2019s Lobby",
+        "website": "https://www.womenlobby.org/",
+        "country": "Belgium",
+        "postal_code": "1000",
+        "address": "18 Rue Hydraulique, Brussels",
+        "un_goals": [
+            5,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "Sigrid Rausing Trust",
+            "Open Society Foundations"
+        ],
+        "found_year": "1990"
+    },
+    {
+        "name": "Face Equality International",
+        "website": "https://www.faceequalityinternational.org/",
+        "country": "United Kingdom",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Commission",
+            "National Lottery Community Fund",
+            "Paul Hamlyn Foundation"
+        ],
+        "found_year": "2018"
+    },
+    {
+        "name": "Family Research Council",
+        "website": "https://www.frc.org/",
+        "country": "United States",
+        "postal_code": "20001",
+        "address": "801 G Street NW, Washington, D.C.",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Templeton Foundation",
+            "National Christian Foundation",
+            "Lynde and Harry Bradley Foundation"
+        ],
+        "found_year": "1983"
+    },
+    {
+        "name": "Federation of Disabled Workers",
+        "website": "https://www.facebook.com/Federacija-invalidov-delo-mb-114633230374665/",
+        "country": "Slovenia",
+        "postal_code": "1000",
+        "address": "Zalo\u0161ka cesta 102, Ljubljana",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Ministry of Labour, Family, Social Affairs and Equal Opportunities of the Republic of Slovenia",
+            "European Social Fund",
+            "City of Ljubljana"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Foundation for International Cooperation of the Disabled",
+        "website": "http://www.ficd.ru/",
+        "country": "Russia",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Russian Ministry of Labor and Social Protection",
+            "United Nations Development Programme",
+            "European Commission"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Foundation for the Support of Disabled Persons",
+        "website": "https://www.fsd-bg.org/",
+        "country": "Bulgaria",
+        "postal_code": "1000",
+        "address": "6 Prof. Georgi Bradistilov Street, Sofia",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "United Nations Development Programme",
+            "Open Society Foundations"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Friends of the Disabled Association",
+        "website": "https://www.fodanepal.org/",
+        "country": "Nepal",
+        "postal_code": "44600",
+        "address": "P.O. Box 8975 EPC 1119, Kathmandu",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "UNICEF",
+            "USAID",
+            "European Union"
+        ],
+        "found_year": "1991"
+    },
+    {
+        "name": "Fundaci\u00f3n ONCE",
+        "website": "https://www.fundaciononce.es/",
+        "country": "Spain",
+        "postal_code": "28037",
+        "address": "Calle Sebasti\u00e1n Herrera, 15, Madrid",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "Spanish Ministry of Health, Social Services, and Equality",
+            "European Social Fund"
+        ],
+        "found_year": "1988"
+    },
+    {
+        "name": "Georgia Advocacy Office",
+        "website": "https://www.thegao.org/",
+        "country": "United States",
+        "postal_code": "30329",
+        "address": "1 West Court Square, Suite 625, Decatur, GA",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "U.S. Department of Health and Human Services",
+            "Georgia Council on Developmental Disabilities",
+            "U.S. Department of Education"
+        ],
+        "found_year": "1977"
+    },
+    {
+        "name": "German Association for the Blind and Visually Impaired",
+        "website": "https://www.dbsv.org/",
+        "country": "Germany",
+        "postal_code": "10825",
+        "address": "Rungestra\u00dfe 19, Berlin",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "German Federal Ministry of Labor and Social Affairs",
+            "German Federal Ministry of Health",
+            "German Federal Ministry of Family Affairs, Senior Citizens, Women and Youth"
+        ],
+        "found_year": "1912"
+    },
+    {
+        "name": "Global Disability Rights Library",
+        "website": "https://www.widernet.org/portals/gdrl/",
+        "country": "United States",
+        "postal_code": "52245",
+        "address": "The WiderNet Project, 3001C UCC, Iowa City, IA",
+        "un_goals": [
+            4,
+            10,
+            16
+        ],
+        "sponsors": [
+            "U.S. Agency for International Development",
+            "University of Iowa",
+            "WiderNet Project"
+        ],
+        "found_year": "2010"
+    },
+    {
+        "name": "Global Initiative for Inclusive ICTs (G3ict)",
+        "website": "https://www.g3ict.org/",
+        "country": "United States",
+        "postal_code": "30329",
+        "address": "2100 Riveredge Parkway, Suite 1030, Atlanta, GA",
+        "un_goals": [
+            4,
+            10,
+            16
+        ],
+        "sponsors": [
+            "United Nations Department of Economic and Social Affairs",
+            "International Telecommunication Union",
+            "Microsoft"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Gambia Future Hands on Disabled People",
+        "website": "https://www.facebook.com/Gambia-Future-Hands-On-Disabled-People-1119848388167640/",
+        "country": "Gambia",
+        "postal_code": "N/A",
+        "address": "Kotu, Gambia",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "UNDP Gambia",
+            "UNICEF Gambia",
+            "Gambia Red Cross Society"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Gedaraf Digital City Organization",
+        "website": "https://www.facebook.com/GedarafDigitalCityOrganization/",
+        "country": "Sudan",
+        "postal_code": "N/A",
+        "address": "Gedaraf, Sudan",
+        "un_goals": [
+            8,
+            9
+        ],
+        "sponsors": [
+            "UNESCO",
+            "Ministry of Telecommunications and Information Technology - Sudan",
+            "Sudanese Telecommunication Corporation"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Gerakan Peduli Disabilitas Dan Lepra Indonesia (GPDLI)",
+        "website": "https://gpdlindonesia.org/",
+        "country": "Indonesia",
+        "postal_code": "N/A",
+        "address": "Jl. Raya Janti No. 67, Banguntapan, Bantul, Yogyakarta",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "World Health Organization",
+            "CBM International",
+            "Liliane Foundation"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Ghana Federation of Disability Organisations",
+        "website": "https://ghanafed.org/",
+        "country": "Ghana",
+        "postal_code": "N/A",
+        "address": "Off George W. Bush N1 Highway, Dome Pillar 2, Accra, Ghana",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "CBM International",
+            "USAID",
+            "International Disability Alliance"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Global Alliance on Accessible Technologies and Environment (GAATES)",
+        "website": "https://www.gaates.org/",
+        "country": "Canada",
+        "postal_code": "K1A 0A1",
+        "address": "45 O'Connor Street, Suite 1150, Ottawa, ON",
+        "un_goals": [
+            9,
+            11
+        ],
+        "sponsors": [
+            "UNESCO",
+            "World Bank",
+            "Government of Canada"
+        ],
+        "found_year": "2007"
+    },
+    {
+        "name": "Global Deaf Connection",
+        "website": "https://www.deafconnection.org/",
+        "country": "United States",
+        "postal_code": "55406",
+        "address": "3017 27th Ave S, Minneapolis, MN",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Rotary International",
+            "Hilton Foundation",
+            "GHR Foundation"
+        ],
+        "found_year": "2000"
+    },
+    {
+        "name": "Global Disability Innovation Hub (GDI Hub)",
+        "website": "https://www.disabilityinnovation.com/",
+        "country": "United Kingdom",
+        "postal_code": "E15 2GW",
+        "address": "UCL at Here East, Queen Elizabeth Olympic Park, London",
+        "un_goals": [
+            9,
+            11
+        ],
+        "sponsors": [
+            "UCL",
+            "Loughborough University",
+            "London College of Fashion"
+        ],
+        "found_year": "2016"
+    },
+    {
+        "name": "Global Partnership for Disability and Development (GPDD)",
+        "website": "http://gpdd-online.org/",
+        "country": "United States",
+        "postal_code": "20006",
+        "address": "1775 K St NW, Suite 410, Washington, D.C.",
+        "un_goals": [
+            1,
+            8
+        ],
+        "sponsors": [
+            "World Bank",
+            "UNICEF",
+            "USAID"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "GlobalPartnersUnited",
+        "website": "https://globalpartnersunited.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Seattle, Washington, USA",
+        "un_goals": [
+            3,
+            17
+        ],
+        "sponsors": [
+            "Seattle Foundation",
+            "Microsoft",
+            "The Boeing Company"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "HalfthePlanet Foundation",
+        "website": "https://halftheplanet.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "New York, NY, USA",
+        "un_goals": [
+            10,
+            11
+        ],
+        "sponsors": [
+            "Google",
+            "Microsoft",
+            "Amazon"
+        ],
+        "found_year": "2017"
+    },
+    {
+        "name": "Handicap International",
+        "website": "https://www.hi-us.org/",
+        "country": "United States",
+        "postal_code": "80202",
+        "address": "1120 Lincoln St, Suite 1302, Denver, CO",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Union",
+            "USAID",
+            "IKEA Foundation"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "Harmony of the World",
+        "website": "https://www.harmonyoftheworld.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Los Angeles, California, USA",
+        "un_goals": [
+            4,
+            16
+        ],
+        "sponsors": [
+            "Microsoft",
+            "Google",
+            "Ford Foundation"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Harvard Law School Project on Disability (HPOD)",
+        "website": "https://hpod.law.harvard.edu/",
+        "country": "United States",
+        "postal_code": "02138",
+        "address": "1563 Massachusetts Ave, Cambridge, MA",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "The Christopher & Dana Reeve Foundation"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Help Me See, Inc",
+        "website": "https://helpmesee.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "20 W 36th St, 4th Floor, New York, NY",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Alcon Foundation",
+            "Givaudan",
+            "Lavelle Fund for the Blind"
+        ],
+        "found_year": "2010"
+    },
+    {
+        "name": "Hong Kong Council of Social Service",
+        "website": "https://www.hkcss.org.hk/",
+        "country": "Hong Kong",
+        "postal_code": "N/A",
+        "address": "13/F, Duke of Windsor Social Service Building, 15 Hennessy Road, Wanchai, Hong Kong",
+        "un_goals": [
+            1,
+            10
+        ],
+        "sponsors": [
+            "Hong Kong Jockey Club",
+            "HSBC",
+            "Bank of China"
+        ],
+        "found_year": "1947"
+    },
+    {
+        "name": "Human Rights Watch",
+        "website": "https://www.hrw.org/",
+        "country": "United States",
+        "postal_code": "10118",
+        "address": "350 Fifth Avenue, 34th Floor, New York, NY",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "MacArthur Foundation"
+        ],
+        "found_year": "1978"
+    },
+    {
+        "name": "Humanitarian Organization for Poverty Eradication",
+        "website": "https://www.hope-international.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Tulsa, Oklahoma, USA",
+        "un_goals": [
+            1,
+            2
+        ],
+        "sponsors": [
+            "World Food Programme",
+            "USAID",
+            "UNICEF"
+        ],
+        "found_year": "1999"
+    },
+    {
+        "name": "Idea Center (United States)",
+        "website": "https://www.mdc.edu/ideacenter/",
+        "country": "United States",
+        "postal_code": "33132",
+        "address": "300 NE 2nd Ave, Miami, FL",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "JPMorgan Chase",
+            "The Knight Foundation",
+            "Miami Dade College"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "IFENDU for Women\u2019s Development (IFENDU)",
+        "website": "https://www.ifendu.org/",
+        "country": "Nigeria",
+        "postal_code": "N/A",
+        "address": "Abuja, Nigeria",
+        "un_goals": [
+            5,
+            10
+        ],
+        "sponsors": [
+            "UN Women",
+            "ActionAid",
+            "Ford Foundation"
+        ],
+        "found_year": "2006"
+    },
+    {
+        "name": "Impact Foundation Bangladesh",
+        "website": "https://www.impactfoundationbd.org/",
+        "country": "Bangladesh",
+        "postal_code": "N/A",
+        "address": "House 19, Road 12 (New), Dhanmondi R/A, Dhaka, Bangladesh",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "The Leprosy Mission",
+            "CBM International",
+            "European Union"
+        ],
+        "found_year": "1993"
+    },
+    {
+        "name": "Inclusion International",
+        "website": "https://inclusion-international.org/",
+        "country": "United Kingdom",
+        "postal_code": "N/A",
+        "address": "London, United Kingdom",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "European Commission",
+            "UNICEF"
+        ],
+        "found_year": "1960"
+    },
+    {
+        "name": "Inclusion Ireland",
+        "website": "https://www.inclusionireland.ie/",
+        "country": "Ireland",
+        "postal_code": "D08 X01F",
+        "address": "Unit C2, The Steelworks, Foley Street, Dublin 1",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Health Service Executive (HSE)",
+            "National Lottery",
+            "Irish Human Rights and Equality Commission"
+        ],
+        "found_year": "1961"
+    },
+    {
+        "name": "Institute for Human Centered Design (formerly Adaptive Environments)",
+        "website": "https://humancentereddesign.org/",
+        "country": "United States",
+        "postal_code": "02210",
+        "address": "200 Portland St, Suite 1, Boston, MA",
+        "un_goals": [
+            9,
+            11
+        ],
+        "sponsors": [
+            "The Kresge Foundation",
+            "Ford Foundation",
+            "National Endowment for the Arts"
+        ],
+        "found_year": "1978"
+    },
+    {
+        "name": "Institute of Developing Economies (JETRO)",
+        "website": "https://www.ide.go.jp/English/",
+        "country": "Japan",
+        "postal_code": "261-8545",
+        "address": "3-2-2 Wakaba, Mihama-ku, Chiba-shi, Chiba, Japan",
+        "un_goals": [
+            8,
+            9
+        ],
+        "sponsors": [
+            "Japan External Trade Organization (JETRO)",
+            "Ministry of Economy, Trade and Industry (METI)",
+            "Government of Japan"
+        ],
+        "found_year": "1960"
+    },
+    {
+        "name": "Institute on Disability and Public Policy (IDPP)",
+        "website": "http://www.idppglobal.org/",
+        "country": "United States",
+        "postal_code": "20052",
+        "address": "805 21st St NW, Suite 504, Washington, D.C.",
+        "un_goals": [
+            4,
+            16
+        ],
+        "sponsors": [
+            "Nippon Foundation",
+            "USAID",
+            "ASEAN University Network"
+        ],
+        "found_year": "2011"
+    },
+    {
+        "name": "Instituto Paradigma",
+        "website": "https://www.paradigma.com.br/",
+        "country": "Brazil",
+        "postal_code": "N/A",
+        "address": "S\u00e3o Paulo, Brazil",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "Funda\u00e7\u00e3o Dorina Nowill",
+            "Bradesco",
+            "Ita\u00fa Unibanco"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Instituto ser educacional (Educational Institute)",
+        "website": "http://institutoser.org/",
+        "country": "Brazil",
+        "postal_code": "N/A",
+        "address": "Rua Almirante Alexandrino, 501, Santa Teresa, Rio de Janeiro",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "IBM",
+            "Microsoft",
+            "Google"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Inter-American Institute on Disability",
+        "website": "http://www.iidi.org/",
+        "country": "United States",
+        "postal_code": "33134",
+        "address": "2850 SW 3rd Ave, Miami, FL",
+        "un_goals": [
+            10,
+            11
+        ],
+        "sponsors": [
+            "Inter-American Development Bank",
+            "USAID",
+            "Organization of American States"
+        ],
+        "found_year": "2002"
+    },
+    {
+        "name": "International Center for Autism Research and Education (Icare4Autism)",
+        "website": "https://www.icare4autism.org/",
+        "country": "United States",
+        "postal_code": "10952",
+        "address": "199 Lee Ave, Suite 366, Brooklyn, NY",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Autism Speaks",
+            "New York Collaborates for Autism",
+            "Ford Foundation"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "International Council For Caring Communities, Inc",
+        "website": "http://www.icccglobal.org/",
+        "country": "United States",
+        "postal_code": "10022",
+        "address": "845 Third Avenue, 6th Floor, New York, NY",
+        "un_goals": [
+            11,
+            17
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "United Nations",
+            "The Rockefeller Foundation"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "International Disability Alliance",
+        "website": "http://www.internationaldisabilityalliance.org/",
+        "country": "Switzerland",
+        "postal_code": "1202",
+        "address": "150 Route de Ferney, PO Box 2100, Geneva",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Swedish International Development Cooperation Agency",
+            "Norwegian Agency for Development Cooperation",
+            "Australian Department of Foreign Affairs and Trade"
+        ],
+        "found_year": "1999"
+    },
+    {
+        "name": "International Disability and Development Consortium",
+        "website": "https://iddcconsortium.net/",
+        "country": "Belgium",
+        "postal_code": "1050",
+        "address": "Rue Washington 40, Brussels",
+        "un_goals": [
+            1,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "Swedish International Development Cooperation Agency",
+            "Irish Aid"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "International Dyslexia Association (IDA)",
+        "website": "https://dyslexiaida.org/",
+        "country": "United States",
+        "postal_code": "21286",
+        "address": "40 York Road, 4th Floor, Towson, MD",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "The Emily Hall Tremaine Foundation",
+            "The Oak Foundation",
+            "W.K. Kellogg Foundation"
+        ],
+        "found_year": "1949"
+    },
+    {
+        "name": "International Federation for Spina Bifida and Hydrocephalus",
+        "website": "https://www.ifglobal.org/",
+        "country": "Belgium",
+        "postal_code": "1040",
+        "address": "Avenue des Arts 1-2, Brussels",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "Fondazione Cariplo",
+            "Shire"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "International Federation of Adapted Physical Activity (IFAPA)",
+        "website": "https://ifapa.net/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Global organization with members in various countries",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "European Commission",
+            "UNESCO",
+            "International Paralympic Committee"
+        ],
+        "found_year": "1991"
+    },
+    {
+        "name": "International Federation of Hard of Hearing People",
+        "website": "https://www.ifhoh.org/",
+        "country": "Netherlands",
+        "postal_code": "N/A",
+        "address": "Global organization with members in various countries",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "World Health Organization",
+            "European Disability Forum",
+            "Swedish International Development Cooperation Agency"
+        ],
+        "found_year": "1977"
+    },
+    {
+        "name": "International Human Rights Association of American Minorities (IHRAAM)",
+        "website": "https://www.ihraam.org/",
+        "country": "United States",
+        "postal_code": "60637",
+        "address": "5737 S. University Avenue, Chicago, IL",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Ford Foundation",
+            "Open Society Foundations",
+            "The Carter Center"
+        ],
+        "found_year": "1986"
+    },
+    {
+        "name": "International Paralympic Committee",
+        "website": "https://www.paralympic.org/",
+        "country": "Germany",
+        "postal_code": "53113",
+        "address": "Adenauerallee 212-214, Bonn",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "International Olympic Committee",
+            "Toyota",
+            "Allianz"
+        ],
+        "found_year": "1989"
+    },
+    {
+        "name": "International Right to Life Federation",
+        "website": "https://www.internationalrighttolife.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Global organization with members in various countries",
+        "un_goals": [
+            3,
+            5
+        ],
+        "sponsors": [
+            "Knights of Columbus",
+            "The Catholic Association Foundation",
+            "The Donum Vitae Foundation"
+        ],
+        "found_year": "1984"
+    },
+    {
+        "name": "International Save the Children Alliance",
+        "website": "https://www.savethechildren.net/",
+        "country": "United Kingdom",
+        "postal_code": "SW1E 5JL",
+        "address": "St Vincent House, 30 Orange Street, London",
+        "un_goals": [
+            1,
+            2,
+            3
+        ],
+        "sponsors": [
+            "Bill & Melinda Gates Foundation",
+            "European Commission",
+            "UNICEF"
+        ],
+        "found_year": "1919"
+    },
+    {
+        "name": "International Society of Physical and Rehabilitation Medicine (ISPRM)",
+        "website": "https://www.isprm.org/",
+        "country": "Switzerland",
+        "postal_code": "1207",
+        "address": "Rue Fran\u00e7ois-Versonnex 7, Geneva",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "World Health Organization",
+            "United Nations",
+            "International Disability Alliance"
+        ],
+        "found_year": "1999"
+    },
+    {
+        "name": "International Stuttering Association",
+        "website": "https://www.isastutter.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "Global organization with members in various countries",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "National Stuttering Association",
+            "European League of Stuttering Associations",
+            "Stuttering Foundation"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "International Organization for Standardization",
+        "website": "https://www.iso.org/",
+        "country": "Switzerland",
+        "postal_code": "1211",
+        "address": "1, ch. de la Voie-Creuse, CP 56, Geneva",
+        "un_goals": [
+            9,
+            12
+        ],
+        "sponsors": [
+            "International Electrotechnical Commission",
+            "International Telecommunication Union",
+            "World Trade Organization"
+        ],
+        "found_year": "1947"
+    },
+    {
+        "name": "Iraqi Handicapped and Survivors Society",
+        "website": "http://www.ihssiraq.org/",
+        "country": "Iraq",
+        "postal_code": "N/A",
+        "address": "Baghdad, Iraq",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "United Nations",
+            "International Committee of the Red Cross",
+            "World Health Organization"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "IUS Gentium Conimbrigae Institute-Human Rights Centre",
+        "website": "http://www.iusgentium.eu/",
+        "country": "Portugal",
+        "postal_code": "3004-512",
+        "address": "Rua dos Coutinhos, n\u00ba 2, Coimbra",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "European Commission",
+            "Council of Europe",
+            "Portuguese Foundation for Science and Technology"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "Japan Disability Forum",
+        "website": "https://www.jdf.ne.jp/",
+        "country": "Japan",
+        "postal_code": "101-0051",
+        "address": "2-8 Kanda-Surugadai, Chiyoda-ku, Tokyo",
+        "un_goals": [
+            10,
+            11
+        ],
+        "sponsors": [
+            "Government of Japan",
+            "The Nippon Foundation",
+            "Japan International Cooperation Agency"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Joint National Association of Persons with Disabilities (JONAPWD Nigeria)",
+        "website": "https://www.jonapwd.org/",
+        "country": "Nigeria",
+        "postal_code": "N/A",
+        "address": "Abuja, Nigeria",
+        "un_goals": [
+            4,
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "European Union",
+            "CBM International"
+        ],
+        "found_year": "1992"
+    },
+    {
+        "name": "Jubilee Sailing Trust",
+        "website": "https://jst.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "SO14 5QL",
+        "address": "12 Hazel Road, Southampton",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "The National Lottery Community Fund",
+            "The Royal British Legion",
+            "The Garfield Weston Foundation"
+        ],
+        "found_year": "1978"
+    },
+    {
+        "name": "Junior Chamber International Nigeria",
+        "website": "https://jci.cc/en/",
+        "country": "Nigeria",
+        "postal_code": "N/A",
+        "address": "Lagos, Nigeria",
+        "un_goals": [
+            8,
+            16
+        ],
+        "sponsors": [
+            "United Nations",
+            "Coca-Cola",
+            "Ford Motor Company"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "K\u00e9roul",
+        "website": "https://www.keroul.qc.ca/",
+        "country": "Canada",
+        "postal_code": "H1V 1G3",
+        "address": "4545 Pierre-De Coubertin Avenue, Montr\u00e9al, Qu\u00e9bec",
+        "un_goals": [
+            6,
+            9
+        ],
+        "sponsors": [
+            "Qu\u00e9bec Ministry of Tourism",
+            "Canadian Heritage",
+            "Ville de Montr\u00e9al"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "Kessler Foundation",
+        "website": "https://kesslerfoundation.org/",
+        "country": "United States",
+        "postal_code": "07052",
+        "address": "120 Eagle Rock Avenue, Suite 100, East Hanover, NJ",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Johnson & Johnson",
+            "National Multiple Sclerosis Society",
+            "Craig H. Neilsen Foundation"
+        ],
+        "found_year": "1985"
+    },
+    {
+        "name": "Kids Included Together (KIT)",
+        "website": "https://www.kit.org/",
+        "country": "United States",
+        "postal_code": "92123",
+        "address": "2820 Camino Del Rio South, Suite 212, San Diego, CA",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "S. Mark Taper Foundation",
+            "The David C. Copley Foundation",
+            "The California Wellness Foundation"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "Korean Disabled Peoples International",
+        "website": "http://kdpi.or.kr/",
+        "country": "South Korea",
+        "postal_code": "N/A",
+        "address": "Seoul, South Korea",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Government of South Korea",
+            "The Nippon Foundation",
+            "United Nations"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "Landmine Survivors Network (LSN)",
+        "website": "https://www.landminesurvivors.org/",
+        "country": "United States",
+        "postal_code": "20007",
+        "address": "2800 Quebec St NW, Suite 721, Washington, D.C.",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "United Nations",
+            "USAID",
+            "European Commission"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "Learning Disabilities Association of America (LDA)",
+        "website": "https://ldaamerica.org/",
+        "country": "United States",
+        "postal_code": "15234",
+        "address": "4156 Library Road, Pittsburgh, PA",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "The Wallace Foundation",
+            "The Robert Wood Johnson Foundation",
+            "W.K. Kellogg Foundation"
+        ],
+        "found_year": "1963"
+    },
+    {
+        "name": "Leonard Cheshire Disability",
+        "website": "https://www.leonardcheshire.org/",
+        "country": "United Kingdom",
+        "postal_code": "SW8 1RL",
+        "address": "66 South Lambeth Road, London",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Comic Relief",
+            "European Commission",
+            "Big Lottery Fund"
+        ],
+        "found_year": "1948"
+    },
+    {
+        "name": "Leonard Cheshire Disability",
+        "website": "https://www.leonardcheshire.org/",
+        "country": "United Kingdom",
+        "postal_code": "SW8 1RL",
+        "address": "66 South Lambeth Road, London",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Comic Relief",
+            "European Commission",
+            "Big Lottery Fund"
+        ],
+        "found_year": "1948"
+    },
+    {
+        "name": "Light for the World",
+        "website": "https://www.light-for-the-world.org/",
+        "country": "Austria",
+        "postal_code": "1150",
+        "address": "Niederhofstra\u00dfe 26, Vienna",
+        "un_goals": [
+            1,
+            3
+        ],
+        "sponsors": [
+            "European Union",
+            "Austrian Development Agency",
+            "CBM International"
+        ],
+        "found_year": "1988"
+    },
+    {
+        "name": "Lithuanian Association of the Deaf",
+        "website": "https://www.lkd.lt/",
+        "country": "Lithuania",
+        "postal_code": "09107",
+        "address": "A. Vivulskio g. 13, Vilnius",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Commission",
+            "European Social Fund",
+            "Government of Lithuania"
+        ],
+        "found_year": "1928"
+    },
+    {
+        "name": "Little People of America (LPA)",
+        "website": "https://www.lpaonline.org/",
+        "country": "United States",
+        "postal_code": "95814",
+        "address": "617 16th Street, Sacramento, CA",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "The Andrew Family Foundation",
+            "The Milagro Foundation",
+            "The Little People's Research Fund"
+        ],
+        "found_year": "1957"
+    },
+    {
+        "name": "Living Arrangements for the Developmentally Disabled (LADD)",
+        "website": "https://www.laddinc.org/",
+        "country": "United States",
+        "postal_code": "45229",
+        "address": "3603 Victory Parkway, Cincinnati, OH",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "The Greater Cincinnati Foundation",
+            "The Carol Ann and Ralph V. Haile, Jr./U.S. Bank Foundation",
+            "Ohio Department of Developmental Disabilities"
+        ],
+        "found_year": "1975"
+    },
+    {
+        "name": "Magyar Vakok \u00e9s Gyeng\u00e9nl\u00e1t\u00f3k Orsz\u00e1gos Sz\u00f6vets\u00e9ge (MVGYOSZ)",
+        "website": "https://www.mvgyosz.hu/",
+        "country": "Hungary",
+        "postal_code": "1088",
+        "address": "Br\u00f3dy S\u00e1ndor utca 31, Budapest",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "European Social Fund",
+            "Government of Hungary"
+        ],
+        "found_year": "1908"
+    },
+    {
+        "name": "Magyar Vakok \u00e9s Gyeng\u00e9nl\u00e1t\u00f3k Orsz\u00e1gos Sz\u00f6vets\u00e9ge (MVGYOSZ)",
+        "website": "https://www.mvgyosz.hu/",
+        "country": "Hungary",
+        "postal_code": "1088",
+        "address": "Br\u00f3dy S\u00e1ndor utca 31, Budapest",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "European Union",
+            "European Social Fund",
+            "Government of Hungary"
+        ],
+        "found_year": "1908"
+    },
+    {
+        "name": "Mental Disability Rights International",
+        "website": "http://www.mdri.org/",
+        "country": "United States",
+        "postal_code": "20008",
+        "address": "3320 18th St NW, Washington, D.C.",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Open Society Foundations",
+            "The Sigrid Rausing Trust",
+            "Ford Foundation"
+        ],
+        "found_year": "1993"
+    },
+    {
+        "name": "Mental Health America (MHA)",
+        "website": "https://www.mhanational.org/",
+        "country": "United States",
+        "postal_code": "22314",
+        "address": "500 Montgomery Street, Suite 820, Alexandria, VA",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Substance Abuse and Mental Health Services Administration",
+            "The Robert Wood Johnson Foundation",
+            "The SCAN Foundation"
+        ],
+        "found_year": "1909"
+    },
+    {
+        "name": "Mental Health Foundation",
+        "website": "https://www.mentalhealth.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "SE1 7TP",
+        "address": "Colechurch House, 1 London Bridge Walk, London",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Big Lottery Fund",
+            "Wellcome Trust",
+            "The Tudor Trust"
+        ],
+        "found_year": "1949"
+    },
+    {
+        "name": "Mind",
+        "website": "https://www.mind.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "E15 4BQ",
+        "address": "15-19 Broadway, Stratford, London",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Comic Relief",
+            "The Big Lottery Fund",
+            "Department of Health"
+        ],
+        "found_year": "1946"
+    },
+    {
+        "name": "MindFreedom International",
+        "website": "https://mindfreedom.org/",
+        "country": "United States",
+        "postal_code": "97402",
+        "address": "454 Willamette, Suite 216, Eugene, OR",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "The Foundation for Excellence in Mental Health Care",
+            "Open Society Foundations",
+            "The Fund for Nonviolence"
+        ],
+        "found_year": "1986"
+    },
+    {
+        "name": "Mobility International USA (MIUSA)",
+        "website": "https://www.miusa.org/",
+        "country": "United States",
+        "postal_code": "97401",
+        "address": "132 E Broadway, Suite 343, Eugene, OR",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "USAID",
+            "National Council on Independent Living",
+            "The Christopher & Dana Reeve Foundation"
+        ],
+        "found_year": "1981"
+    },
+    {
+        "name": "Movement for the Intellectually Disabled of Singapore (MINDS)",
+        "website": "https://www.minds.org.sg/",
+        "country": "Singapore",
+        "postal_code": "139299",
+        "address": "800 Margaret Drive, Singapore",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Tote Board",
+            "Singapore National Co-operative Federation",
+            "Ministry of Social and Family Development"
+        ],
+        "found_year": "1962"
+    },
+    {
+        "name": "Muscular Dystrophy Association (MDA)",
+        "website": "https://www.mda.org/",
+        "country": "United States",
+        "postal_code": "60601",
+        "address": "161 N. Clark, Suite 3550, Chicago, IL",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Harley-Davidson",
+            "The V Foundation",
+            "The JM Foundation"
+        ],
+        "found_year": "1950"
+    },
+    {
+        "name": "National Association for the Deaf (NAD)",
+        "website": "https://www.nad.org/",
+        "country": "United States",
+        "postal_code": "20910",
+        "address": "8630 Fenton Street, Suite 820, Silver Spring, MD",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Gallaudet University",
+            "National Technical Institute for the Deaf",
+            "The Verizon Foundation"
+        ],
+        "found_year": "1880"
+    },
+    {
+        "name": "National Association of the Deaf-Blind in the United States",
+        "website": "https://www.nadbusa.org/",
+        "country": "United States",
+        "postal_code": "N/A",
+        "address": "N/A",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Helen Keller National Center",
+            "American Association of the Deaf-Blind",
+            "American Foundation for the Blind"
+        ],
+        "found_year": "N/A"
+    },
+    {
+        "name": "National Autistic Society (NAS)",
+        "website": "https://www.autism.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "N1 7GR",
+        "address": "393 City Road, London",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Big Lottery Fund",
+            "The National Lottery Community Fund",
+            "The Pears Foundation"
+        ],
+        "found_year": "1962"
+    },
+    {
+        "name": "National Center for Learning Disabilities (NCLD)",
+        "website": "https://www.ncld.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "381 Park Avenue South, Suite 1401, New York, NY",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "The Oak Foundation",
+            "The Emily Hall Tremaine Foundation",
+            "The Bill & Melinda Gates Foundation"
+        ],
+        "found_year": "1977"
+    },
+    {
+        "name": "National Center for Learning Disabilities (NCLD)",
+        "website": "https://www.ncld.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "381 Park Avenue South, Suite 1401, New York, NY",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "The Oak Foundation",
+            "The Emily Hall Tremaine Foundation",
+            "The Bill & Melinda Gates Foundation"
+        ],
+        "found_year": "1977"
+    },
+    {
+        "name": "National Council on Disability (NCD)",
+        "website": "https://ncd.gov/",
+        "country": "United States",
+        "postal_code": "20006",
+        "address": "1331 F Street NW, Suite 850, Washington, D.C.",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "U.S. Department of Education",
+            "U.S. Department of Health and Human Services",
+            "U.S. Department of Labor"
+        ],
+        "found_year": "1978"
+    },
+    {
+        "name": "National Council on Independent Living (NCIL)",
+        "website": "https://www.ncil.org/",
+        "country": "United States",
+        "postal_code": "22203",
+        "address": "2013 H Street NW, 6th Floor, Washington, D.C.",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "U.S. Department of Education",
+            "U.S. Department of Health and Human Services",
+            "U.S. Department of Housing and Urban Development"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "National Deaf Children's Society (NDCS)",
+        "website": "https://www.ndcs.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "EC1R 0AA",
+        "address": "Castle House, 37-45 Paul Street, London",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "Big Lottery Fund",
+            "The National Lottery Community Fund",
+            "The Children's Trust"
+        ],
+        "found_year": "1944"
+    },
+    {
+        "name": "National Down Syndrome Society (NDSS)",
+        "website": "https://www.ndss.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "8 E 41st Street, 8th Floor, New York, NY",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "The Global Down Syndrome Foundation",
+            "The Pujols Family Foundation",
+            "The Gerber Foundation"
+        ],
+        "found_year": "1979"
+    },
+    {
+        "name": "National Federation of the Blind (NFB)",
+        "website": "https://www.nfb.org/",
+        "country": "United States",
+        "postal_code": "21230",
+        "address": "200 E Wells Street, Baltimore, MD",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "The Reader's Digest Partners for Sight Foundation",
+            "The Verizon Foundation",
+            "Walmart"
+        ],
+        "found_year": "1940"
+    },
+    {
+        "name": "National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD)",
+        "website": "http://www.nivh.org.in/",
+        "country": "India",
+        "postal_code": "248017",
+        "address": "116 Rajpur Road, Dehradun, Uttarakhand",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Government of India",
+            "Ministry of Social Justice and Empowerment",
+            "UNESCO"
+        ],
+        "found_year": "1943"
+    },
+    {
+        "name": "National Institute of Speech and Hearing (NISH)",
+        "website": "https://www.nish.ac.in/",
+        "country": "India",
+        "postal_code": "695 017",
+        "address": "NISH Road, Sreekariyam P.O, Thiruvananthapuram, Kerala",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Government of India",
+            "Government of Kerala",
+            "UNESCO"
+        ],
+        "found_year": "1997"
+    },
+    {
+        "name": "National Mental Health Association (NMHA)",
+        "website": "https://www.mhanational.org/",
+        "country": "United States",
+        "postal_code": "22314",
+        "address": "500 Montgomery Street, Suite 820, Alexandria, VA",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Substance Abuse and Mental Health Services Administration",
+            "The Robert Wood Johnson Foundation",
+            "The SCAN Foundation"
+        ],
+        "found_year": "1909"
+    },
+    {
+        "name": "National Multiple Sclerosis Society",
+        "website": "https://www.nationalmssociety.org/",
+        "country": "United States",
+        "postal_code": "10017",
+        "address": "733 Third Avenue, 3rd Floor, New York, NY",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "The Conrad N. Hilton Foundation",
+            "The Race to Erase MS",
+            "The Leona M. and Harry B. Helmsley Charitable Trust"
+        ],
+        "found_year": "1946"
+    },
+    {
+        "name": "National Organization on Disability (NOD)",
+        "website": "https://www.nod.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "77 Water Street, Suite 204, New York, NY",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Kessler Foundation",
+            "The Prudential Foundation",
+            "The Ford Foundation"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "National Organization on Disability (NOD)",
+        "website": "https://www.nod.org/",
+        "country": "United States",
+        "postal_code": "10016",
+        "address": "77 Water Street, Suite 204, New York, NY",
+        "un_goals": [
+            10,
+            16
+        ],
+        "sponsors": [
+            "Kessler Foundation",
+            "The Prudential Foundation",
+            "The Ford Foundation"
+        ],
+        "found_year": "1982"
+    },
+    {
+        "name": "National Society for the Prevention of Cruelty to Children (NSPCC)",
+        "website": "https://www.nspcc.org.uk/",
+        "country": "United Kingdom",
+        "postal_code": "EC2A 3NH",
+        "address": "Weston House, 42 Curtain Road, London",
+        "un_goals": [
+            1,
+            3
+        ],
+        "sponsors": [
+            "Big Lottery Fund",
+            "The National Lottery Community Fund",
+            "The Children's Trust"
+        ],
+        "found_year": "1884"
+    },
+    {
+        "name": "National Stroke Association (NSA)",
+        "website": "https://www.stroke.org/",
+        "country": "United States",
+        "postal_code": "80031",
+        "address": "9707 E Easter Lane, Suite B, Centennial, CO",
+        "un_goals": [
+            3,
+            4
+        ],
+        "sponsors": [
+            "The National Institutes of Health",
+            "American Heart Association",
+            "The Christopher & Dana Reeve Foundation"
+        ],
+        "found_year": "1984"
+    },
+    {
+        "name": "New Zealand CCS",
+        "website": "https://www.ccsdisabilityaction.org.nz/",
+        "country": "New Zealand",
+        "postal_code": "6011",
+        "address": "14 Erson Avenue, Royal Oak, Auckland",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "New Zealand Ministry of Health",
+            "The Tindall Foundation",
+            "The Vodafone New Zealand Foundation"
+        ],
+        "found_year": "1935"
+    },
+    {
+        "name": "NGO Committee on Mental Health",
+        "website": "http://ngo.cmhnyc.org/",
+        "country": "United States",
+        "postal_code": "10017",
+        "address": "777 United Nations Plaza, 6th Floor, New York, NY",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "United Nations",
+            "World Health Organization",
+            "The Ford Foundation"
+        ],
+        "found_year": "1996"
+    },
+    {
+        "name": "Nordic Centre for Welfare and Social Issues",
+        "website": "https://www.nordicwelfare.org/",
+        "country": "Sweden",
+        "postal_code": "20124",
+        "address": "P.O. Box 1073, Malm\u00f6",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Nordic Council of Ministers",
+            "Nordic Council",
+            "European Union"
+        ],
+        "found_year": "2003"
+    },
+    {
+        "name": "Norwegian Association of Disabled (NAD)",
+        "website": "https://www.nhf.no/",
+        "country": "Norway",
+        "postal_code": "N-0603",
+        "address": "P.O. Box 9217 Gr\u00f8nland, Oslo",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Norwegian Directorate for Children, Youth and Family Affairs",
+            "Norwegian Ministry of Health and Care Services",
+            "European Social Fund"
+        ],
+        "found_year": "1931"
+    },
+    {
+        "name": "Oxfam International",
+        "website": "https://www.oxfam.org/",
+        "country": "United Kingdom",
+        "postal_code": "OX4 6JL",
+        "address": "Oxfam House, John Smith Drive, Oxford",
+        "un_goals": [
+            1,
+            3
+        ],
+        "sponsors": [
+            "European Commission",
+            "Swedish International Development Cooperation Agency",
+            "The Rockefeller Foundation"
+        ],
+        "found_year": "1995"
+    },
+    {
+        "name": "Pacific Disability Forum (PDF)",
+        "website": "http://www.pacificdisability.org/",
+        "country": "Fiji",
+        "postal_code": "N/A",
+        "address": "Suva, Fiji",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Australian Government",
+            "New Zealand Aid Programme",
+            "UNICEF"
+        ],
+        "found_year": "2004"
+    },
+    {
+        "name": "Pakistan Disabled Foundation",
+        "website": "http://www.pdf.org.pk/",
+        "country": "Pakistan",
+        "postal_code": "N/A",
+        "address": "Karachi, Pakistan",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "Government of Pakistan",
+            "The Nippon Foundation",
+            "Islamic Development Bank"
+        ],
+        "found_year": "1992"
+    },
+    {
+        "name": "Pan American Health Organization (PAHO)",
+        "website": "https://www.paho.org/",
+        "country": "United States",
+        "postal_code": "20037",
+        "address": "525 23rd Street NW, Washington, D.C.",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "World Health Organization",
+            "United Nations",
+            "Inter-American Development Bank"
+        ],
+        "found_year": "1902"
+    },
+    {
+        "name": "Paralyzed Veterans of America (PVA)",
+        "website": "https://www.pva.org/",
+        "country": "United States",
+        "postal_code": "20006",
+        "address": "801 18th Street NW, Washington, D.C.",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "U.S. Department of Veterans Affairs",
+            "The Home Depot Foundation",
+            "The Christopher & Dana Reeve Foundation"
+        ],
+        "found_year": "1946"
+    },
+    {
+        "name": "Parents Helping Parents (PHP)",
+        "website": "https://www.php.com/",
+        "country": "United States",
+        "postal_code": "95126",
+        "address": "1400 Parkmoor Avenue, Suite 100, San Jose, CA",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "Silicon Valley Community Foundation",
+            "The Sobrato Family Foundation",
+            "FIRST 5 Santa Clara County"
+        ],
+        "found_year": "1976"
+    },
+    {
+        "name": "Pathways to Independence",
+        "website": "http://www.pathwaystoindependence.org/",
+        "country": "United States",
+        "postal_code": "90807",
+        "address": "3591 Linden Avenue, Suite 3A, Long Beach, CA",
+        "un_goals": [
+            3,
+            10
+        ],
+        "sponsors": [
+            "The S. Mark Taper Foundation",
+            "The Ahmanson Foundation",
+            "The Weingart Foundation"
+        ],
+        "found_year": "1991"
+    },
+    {
+        "name": "PEATC (Parent Educational Advocacy Training Center)",
+        "website": "https://www.peatc.org/",
+        "country": "United States",
+        "postal_code": "22182",
+        "address": "2070 Chain Bridge Road, Suite G55, Vienna, VA",
+        "un_goals": [
+            4,
+            8
+        ],
+        "sponsors": [
+            "U.S. Department of Education",
+            "Virginia Department of Education",
+            "The Community Foundation for Northern Virginia"
+        ],
+        "found_year": "1978\";"
+    }
+]

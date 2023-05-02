@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSO Display</title>
+</head>
+<body>
+    <h1 id="cso-name"></h1>
+    <p><strong>Official Website:</strong> <a href="#" id="cso-website"></a></p>
+    <p><strong>Country:</strong> <span id="cso-country"></span></p>
+    <p><strong>City:</strong> <span id="cso-city"></span></p>
+    <p><strong>Sustainable Goals:</strong> <span id="cso-sustainable-goal"></span></p>
+    <p><strong>Sponsors:</strong> <span id="cso-sponsors"></span></p>
+    <p><strong>Founding Year:</strong> <span id="cso-founding-year"></span></p>
+
+    <script>
+        const cso = JSON.parse(localStorage.getItem("cso"));
+
+        document.getElementById("cso-name").textContent = cso.cso_name;
+        document.getElementById("cso-website").textContent = cso.official_website;
+        document.getElementById("cso-website").href = cso.official_website;
+        document.getElementById("cso-country").textContent = cso.country;
+        document.getElementById("cso-city").textContent = cso.city;
+        document.getElementById("cso-sustainable-goal").textContent = cso.sustainable_goal;
+        document.getElementById("cso-sponsors").textContent = cso.sponsors;
+        document.getElementById("cso-founding-year").textContent = cso.founding_year;
+    </script>
