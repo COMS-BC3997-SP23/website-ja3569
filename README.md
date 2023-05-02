@@ -1,5 +1,10 @@
 # Project Proposal
 
+# Demo Website
+
+https://anjiayu9.github.io/connector-demo/index.html
+
+
 # Objective
 The goal is to promote connections among non-profit and non-governmental organizations and help them find sponsors. The project consists of three parts: information extraction, content mining, and hosting web app. </br></br>
 
